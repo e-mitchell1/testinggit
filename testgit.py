@@ -1,1 +1,1 @@
-print("This shit WHACK")
+print("This shit WHACK as fuck yo")
